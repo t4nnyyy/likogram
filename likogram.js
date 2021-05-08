@@ -7,5 +7,5 @@ setInterval(() => {
     likes++;
     console.log(`You've liked ${likes} post(s)`);
   }
-  arrow.click();
+  arrow.click(); 
 }, 2000);
